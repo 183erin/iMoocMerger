@@ -2,6 +2,8 @@
 
 工具下载：[merger](https://github.com/necan/iMoocMerger/releases)
 
+使用前提：电脑必须联网，用于获取课程信息来创建目录结构。
+
 使用步骤：
 
 1. 在安卓机或 MuMu 模拟器上安装慕课网 app 并下载你购买的视频。
