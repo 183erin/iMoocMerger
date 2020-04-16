@@ -16,9 +16,9 @@
 
    ![image-20200306181705365](assets/image-20200306181705365.png)
 
-4. 在电脑上创建 `src` 文件夹，将你要合并的 `sz_*` 、`mf_*` 或 `lj_` 文件夹复制到 `src` 中，下载我提供的合并工具 `merger.exe`，将 `merger.exe` 放在 `src` 同级目录下。
+4. 在电脑上创建 `src` 文件夹，将你要合并的 `sz_*` 、`mf_*` 或 `lj_*` 文件夹复制到 `src` 中，下载我提供的合并工具 `merger.exe`，将 `merger.exe` 放在 `src` 同级目录下。
 
-   <img src="assets/image-20200416162205777.png" alt="image-20200416162205777" style="zoom: 67%;" />
+   <img src="assets/image-20200416162205777.png" alt="image-20200416162205777" width="550px" />
 
 5. 双击 `merge.exe`，等待合并完成，合并完的视频在 `merged` 文件夹下。
 
